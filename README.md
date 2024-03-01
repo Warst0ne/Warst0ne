@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Warst0ne
-- 👀 I’m interested in Art and all sort of buggy programs.
-- 🌱 I’m currently learning hop to properly use my brain.
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: i'm a seal BWEERGG
+-  Hi, I’m @Warst0ne
+-  I’m interested in Art and programming.
+-  I’m currently learning hop to properly use my brain.
+-  Fun fact: i'm a seal BWEERGG
 
 <!---
 Warst0ne/Warst0ne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
