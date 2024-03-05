@@ -1,5 +1,5 @@
 -  Hi, I’m @Warst0ne
--  I’m interested in Art and programming.
+-  I’m interested in Art and programming. I love to try all kind of things !
 -  I’m currently learning hop to properly use my brain.
 -  Fun fact: i'm a seal BWEERGG
 
